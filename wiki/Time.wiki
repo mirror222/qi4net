@@ -1,5 +1,5 @@
+#summary Time 對象的使用方法及介紹
 #labels Time
-#Time 對象的使用方法及介紹
 
 = Introduction =
 
