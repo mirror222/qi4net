@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
 #labels Time
+#Time 對象的使用方法及介紹
 
 = Introduction =
 
